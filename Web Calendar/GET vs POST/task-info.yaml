@@ -271,6 +271,7 @@ files:
           implementation 'org.springframework.boot:spring-boot-starter'
           implementation 'org.springframework.boot:spring-boot-starter-actuator'
           implementation 'org.springframework.boot:spring-boot-starter-web'
+          implementation 'org.springframework.boot:spring-boot-starter-validation'
       }
     learner_created: false
   - name: src/webCalendarSpring/controller/EventController.java
@@ -293,6 +294,15 @@ files:
           }
       }
     learner_created: true
-feedback_link: https://hyperskill.org/projects/396/stages/2342/implement#comment
-status: Unchecked
+  - name: src/webCalendarSpring/models/Event.java
+    visible: true
+    learner_created: true
+  - name: src/webCalendarSpring/models/EventDTO.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/37839#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 10 Mar 2024 20:55:30 UTC"
 record: -1

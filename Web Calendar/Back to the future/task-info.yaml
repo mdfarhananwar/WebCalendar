@@ -634,6 +634,6 @@ files:
           implementation 'org.springframework.boot:spring-boot-starter-validation'
       }
     learner_created: false
-feedback_link: https://hyperskill.org/projects/396/stages/2344/implement#comment
+feedback_link: https://hyperskill.org/learn/step/37841#comment
 status: Unchecked
 record: -1

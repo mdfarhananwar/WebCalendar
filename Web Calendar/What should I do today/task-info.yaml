@@ -205,7 +205,7 @@ files:
   - name: src/webCalendarSpring/controller/EventController.java
     visible: true
     learner_created: true
-feedback_link: https://hyperskill.org/projects/396/stages/2341/implement#comment
+feedback_link: https://hyperskill.org/learn/step/37838#comment
 status: Solved
 feedback:
   message: Congratulations!
